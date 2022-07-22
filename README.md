@@ -1,2 +1,2 @@
-# sionacodes.github.io
+# sionaravi.github.io
 For my CSCE 190 class
